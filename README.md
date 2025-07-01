@@ -41,21 +41,6 @@ A fully responsive, modern landing page for **RankMax** — an SEO consultancy o
 - **Vanilla JavaScript** for interactive elements
 
 ---
-
-## 💡 Using This Repo
-
-⚠️ This is a client project. All rights to the design, content, and branding are owned by **Revenue Tech Solutions LLC**.  
-This repository is shared strictly for **portfolio and demonstration purposes**. Please **do not reuse, redistribute, or replicate** without proper permission.
-
-### Want a similar website?
-
-You can adapt the structure and idea for your own business by:
-1. Cloning the repository
-2. Replacing branding, content, and visual assets
-3. Updating links and contact details
-4. Deploying to your preferred hosting platform
-
----
 ## 💡 Using This Repo
 
 This repo is intended solely for portfolio and educational purposes. Please give credit if you reference or reuse the code
