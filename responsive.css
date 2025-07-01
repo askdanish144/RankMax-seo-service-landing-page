@@ -1,0 +1,55 @@
+/* for large devices */
+@media screen and (max-width: 992px) {
+    /* hero section  */
+    lottie-player {
+        width: 350px;
+        height: 350px;
+    }
+    .hero-section .container {
+        height: 85vh;
+        display: flex;
+        align-items: center;
+    }
+    .main-content{
+        margin: 1rem 0 1rem 0;
+    }   
+
+    /* footer */
+    footer .container div{
+        justify-content: center !important;
+    }
+}
+
+
+/* for medium devices  */
+@media screen and (max-width: 768px) {
+    /* hero section  */
+    lottie-player {
+        width: 300px;
+        height: 300px;
+    }
+    .hero-section .container {
+        height: 85vh;
+        display: flex;
+        align-items: center;
+    }
+    .main-content{
+        margin: 1rem 0 1rem 0;
+    }
+}
+
+/* for small devices */
+@media screen and (max-width: 576px) {
+    lottie-player {
+        width: 250px;
+        height: 250px;
+    }
+    .hero-section .container {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+    .main-content{
+        margin: 1rem 0 2rem 0;
+    }
+}
