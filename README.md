@@ -4,7 +4,7 @@ A fully responsive, modern landing page for **RankMax** — an SEO consultancy o
 
 ## 📸 Preview
 
-🔗 **Live Demo**: https://askdanish144.github.io/RankMax-seo-service-landing-page/
+🔗 **Live Demo**: https://rank-max.netlify.app/
 ![Website Screenshot](./Screenshot.png)
 
 ---
